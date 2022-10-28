@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018-2021 PixysOS
+# Copyright (C) 2018-2021 LineageOS
 #
 # SPDX-License-Identifier: Apache-2.0
 #
